@@ -114,7 +114,7 @@ class Owner
 end
 ```
 Whenever we use a `has_many` we also have to use the `belongs_to` (and vice-versa) in the other model. ***Keep in mind:*** The model with the `belongs_to` association also has the foreign key.
-
+ 
 
 #### Creating objects
 
